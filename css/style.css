@@ -105,10 +105,10 @@ h1, h2, h3, h4, h5, h6, figure {
   float: left;
 }
 .fh5co-nav .fh5co-top-logo {
-  width: 20%;
+  width: 30%;
 }
 .fh5co-nav .fh5co-top-menu {
-  width: 50%;
+  width: 40%;
 }
 .fh5co-nav .fh5co-top-social {
   width: 30%;
@@ -131,7 +131,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-nav .fh5co-social li a {
   font-size: 20px;
-  color: rgba(0, 0, 0, 0.4);
+  color: rgba(33,150,243, 0.4);
 }
 .fh5co-nav a {
   padding: 5px 0;
@@ -181,7 +181,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background: transparent !important;
 }
 .fh5co-nav .menu-2 li button:hover i, .fh5co-nav .menu-2 li button:focus i {
-  color: black;
+  color: #2196F3 ;
 }
 .fh5co-nav ul {
   padding: 0;
@@ -205,7 +205,7 @@ h1, h2, h3, h4, h5, h6, figure {
   transition: 0.5s;
 }
 .fh5co-nav ul li a:hover, .fh5co-nav ul li a:focus, .fh5co-nav ul li a:active {
-  color: black;
+  color: #2196F3 ;
 }
 .fh5co-nav ul li.has-dropdown {
   position: relative;
@@ -479,7 +479,7 @@ h1, h2, h3, h4, h5, h6, figure {
 @media screen and (max-width: 768px) {
   .work .work-grid .inner {
     opacity: 1;
-    background: rgba(237, 235, 232, 0.7);
+    background: rgba(33,150,243, 0.6);
   }
 }
 .work .work-grid .inner .desc {
