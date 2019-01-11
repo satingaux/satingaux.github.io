@@ -20,8 +20,9 @@
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
-        {% include head.html %}
-        {% seo %}
+	<!-- BUBBLE -->
+	<link rel="stylesheet" type="text/css" href="css/BUBBLE/base.css" />
+		<link rel="stylesheet" type="text/css" href="css/BUBBLE/demo3.css" />
 	</head>
 	<body>
 		
@@ -62,15 +63,21 @@
 		</div>
 	</nav>
 	
-	<div id="fh5co-work">
-		<div class="container">
+	
 			<div class="row top-line animate-box">
-				<div class="col-md-7 col-md-push-5 text-left intro">
-					<h2><div style="color: #2196f3;">Hello.</div>
-						<div id="typewriteText"></div><span class="fh5co-highlight">Made with <i class="far fa-heart"></i> by me. </span></h2>
-				</div>
-				
+				<!-- <div class="col-md-7 col-md-push-5 text-left intro"> -->
+					<div class="content">
+						<canvas class="scene scene--full" id="scene"></canvas>
+						<div class="content__inner">
+						<h2><div style="color: #2196f3; font-size: 5vmax;">Hello.</div>
+						<div id="typewriteText" class="content__title"></div><span class="fh5co-highlight">Made with <i class="far fa-heart"></i> by me. </span></h2>
+						</div>
+					</div>
+					
+				<!-- </div> -->
 			</div>
+	<div id="fh5co-work">
+		<div class="container">		
 			<div class="row">
 				<div class="col-md-4 text-center animate-box">
 					<a class="work" href="https://businesswithweb.github.io">
@@ -276,6 +283,11 @@
             });
         });
     </script>
+    <!-- BUBBLE -->
+    <script src="js/BUBBLE/demo.js"></script>
+		<script src="js/BUBBLE/three.min.js"></script>
+		<script src="js/BUBBLE/perlin.js"></script>
+		<script src="js/BUBBLE/demo3.js"></script>
 	</body>
 </html>
 
