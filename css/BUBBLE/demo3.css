@@ -9,7 +9,7 @@
 .content__title {
 	/*font-family: 'Poppins', sans-serif;*/
 	letter-spacing: -0.025em;
-	font-size: 5vmax;
+	font-size: 2em;
 	color: var(--color-title);
 	line-height: 1;
 	margin: 0;

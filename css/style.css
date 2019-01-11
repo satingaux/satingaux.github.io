@@ -518,7 +518,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .top-line {
-  padding-bottom: 7em;
+  /*padding-bottom: 7em;*/
 }
 .top-line .fh5co-heading {
   margin-bottom: 0 !important;

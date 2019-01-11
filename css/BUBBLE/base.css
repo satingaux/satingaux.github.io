@@ -12,7 +12,7 @@ html {
 body {
 	font-family: 'Barlow', Helvetica, Arial, sans-serif;
 	/*font-weight: 500;*/
-	min-height: 30vh;
+	/*min-height: 30vh;*/
 	/*color: #57585c;*/
 	color: var(--color-text);
 	/*background-color: #000;*/
@@ -55,7 +55,7 @@ a:focus {
 	position: relative;
 	z-index: 100;
 	display: none;
-	padding: 1em;
+	/*padding: 1em;*/
 	text-align: center;
 	color: var(--color-bg);
 	background: var(--color-text);
@@ -86,7 +86,7 @@ main {
 	align-items: center;
 	align-content: center;
 	margin: 0 auto;
-	min-height: 100vh;
+	min-height: 70vh;
 }
 
 .content--fixed {
@@ -100,7 +100,7 @@ main {
 	max-width: none;
 	min-height: 0;
 	height: 100vh;
-	padding: 1.5em;
+	/*padding: 1.5em;*/
 	pointer-events: none;
 	grid-template-columns: 50% 50%;
 	grid-template-rows: auto auto 4em;
@@ -171,7 +171,7 @@ a.demo--current {
 .codrops-icon {
 	display: inline-block;
 	margin: 0.15em;
-	padding: 0.25em;
+	/*padding: 0.25em;*/
 }
 
 /* Canvas positions */
@@ -258,7 +258,7 @@ a.demo--current {
 		position: relative;
 		z-index: 1000;
 		display: block;
-		padding: 0.85em;
+		/*padding: 0.85em;*/
 	}
 	
 }
