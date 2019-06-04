@@ -11,5 +11,5 @@ Beautifull UI Designby satingaux
 :rocket: :metal: :octocat: 
 
 * ## Hurray it's all done.
-* ### Have some doubt / problem.
-* # Say thanks satingaux@gmail.com
+* ### Have some doubt / problem / Just say thanks.
+* # satingaux@gmail.com
