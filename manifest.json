@@ -1,0 +1,30 @@
+{
+  "short_name": "Sachin Sharma",
+  "name": "Sachin Sharma",
+  "theme_color": "#6314E0",
+  "background_color": "#93FBFB",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "img/set3/android/mipmap-mdpi/ic_launcher.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "assets/icons/launcher-icon-2x.png",
+      "type": "img/set3/android/mipmap-xhdpi/ic_launcher.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "assets/icons/launcher-icon-3x.png",
+      "type": "img/set3/android/mipmap-xxhdpi/ic_launcher.pngg",
+      "sizes": "144x144"
+    },
+    {
+      "src": "img/set3/android/mipmap-xxxhdpi/ic_launcher.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/?utm_source=launcher"
+}
