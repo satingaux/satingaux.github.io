@@ -87,7 +87,7 @@ var communityProjects = [
 		type: "Data structures, Experience with core libraries for Data Science.",
 		url: "https://www.youracclaim.com/badges/878ed31f-d694-49c4-b413-52213d901324/public_url"
 
-	},
+	}
 	// {
 	// 	pic: "../assets/img/biztech_thumb.png",
 	// 	desc: "Designing UBC's largest business technology club",
