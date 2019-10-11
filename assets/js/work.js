@@ -45,7 +45,12 @@ var featuredWorks = [
 		title: "TensorFlow",
 		type: "AI, ML, and Deep Learning",
 		url: "https://www.coursera.org/account/accomplishments/certificate/KAJ43NTB2AL4?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
-	},
+	}
+];
+
+
+var communityProjects = [
+	
 	{
 		pic: "./assets/img/ibm.jpg",
 		date: "2019",
@@ -53,7 +58,6 @@ var featuredWorks = [
 		title: "IBM Cognitive Class",
 		type: "Jupyter Notebook, RStudio, Zeppelin and Watson Studio.",
 		url: "https://www.coursera.org/account/accomplishments/certificate/7GWUWEUE9DK5?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
-
 	},
 	{
 		pic: "./assets/img/ibm.jpg",
@@ -63,31 +67,25 @@ var featuredWorks = [
 		type: "Data structures, Experience with core libraries for Data Science.",
 		url: "https://www.coursera.org/account/accomplishments/certificate/8PJQ8FCLE72P?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
 
+	},
+	{
+		pic: "./assets/img/ibm_cognitive.png",
+		desc: "Badge: Open Source Tools for Data Science",
+		title: "IBM Cognitive Class",
+		type: "Jupyter Notebook, RStudio, Zeppelin and Watson Studio.",
+		date: "2019",
+		url: "https://www.youracclaim.com/badges/4e2b24e8-8ab1-42d2-ab4a-c7973c5a69b0/public_url"
+
+	},
+	{
+		pic: "./assets/img/ibm_developer.png",
+		desc: "Badge: Python for Data Science and AI",
+		title: "IBM Developer Skills Network",
+		type: "Data structures, Experience with core libraries for Data Science.",
+		date: "2019",
+		url: "https://www.youracclaim.com/badges/878ed31f-d694-49c4-b413-52213d901324/public_url"
 	}
-];
 
-
-var communityProjects = [
-	
-	
-	// {
-	// 	pic: "./assets/img/ibm_cognitive.png",
-	// 	desc: "Badge: Open Source Tools for Data Science",
-	// 	title: "IBM Cognitive Class",
-	// 	type: "Jupyter Notebook, RStudio, Zeppelin and Watson Studio.",
-	// 	date: "2019",
-	// 	url: "https://www.youracclaim.com/badges/4e2b24e8-8ab1-42d2-ab4a-c7973c5a69b0/public_url"
-
-	// },
-	// {
-	// 	pic: "./assets/img/ibm_developer.png",
-	// 	desc: "Badge: Python for Data Science and AI",
-	// 	title: "IBM Developer Skills Network",
-	// 	type: "Data structures, Experience with core libraries for Data Science.",
-	// 	date: "2019",
-	// 	url: "https://www.youracclaim.com/badges/878ed31f-d694-49c4-b413-52213d901324/public_url"
-
-	// }
 	// {
 	// 	pic: "../assets/img/biztech_thumb.png",
 	// 	desc: "Designing UBC's largest business technology club",
