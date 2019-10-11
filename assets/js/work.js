@@ -64,12 +64,7 @@ var featuredWorks = [
 		type: "Data structures, Experience with core libraries for Data Science.",
 		url: "https://www.coursera.org/account/accomplishments/certificate/8PJQ8FCLE72P?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
 
-	}
-];
-
-
-var communityProjects = [
-	
+	},
 	{
 		pic: "./assets/img/ibm_cognitive.png",
 		date: "2019",
@@ -88,6 +83,13 @@ var communityProjects = [
 		url: "https://www.youracclaim.com/badges/878ed31f-d694-49c4-b413-52213d901324/public_url"
 
 	}
+
+];
+
+
+var communityProjects = [
+	
+	
 	// {
 	// 	pic: "../assets/img/biztech_thumb.png",
 	// 	desc: "Designing UBC's largest business technology club",
