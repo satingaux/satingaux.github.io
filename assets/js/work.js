@@ -23,7 +23,6 @@ var featuredWorks = [
 		type: "Machine Learning, Datamining, and Statistical Pattern Recognition",
 		url: "https://www.coursera.org/account/accomplishments/certificate/PCRQYBXZYKH6?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
 	},
-
 	{
 		pic: "./assets/img/qwilabs.jpg",
 		date: "2019",
@@ -47,29 +46,29 @@ var featuredWorks = [
 		type: "AI, ML, and Deep Learning",
 		url: "https://www.coursera.org/account/accomplishments/certificate/KAJ43NTB2AL4?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
 	}
-	// {
-	// 	pic: "./assets/img/ibm.jpg",
-	// 	date: "2019",
-	// 	desc: "Open Source Tools for Data Science",
-	// 	title: "IBM Cognitive Class",
-	// 	type: "Jupyter Notebook, RStudio, Zeppelin and Watson Studio.",
-	// 	url: "https://www.coursera.org/account/accomplishments/certificate/7GWUWEUE9DK5?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
-
-	// },
-	// {
-	// 	pic: "./assets/img/ibm.jpg",
-	// 	date: "2019",
-	// 	desc: "Python for Data Science & AI",
-	// 	title: "IBM Developer Skills Network",
-	// 	type: "Data structures, Experience with core libraries for Data Science.",
-	// 	url: "https://www.coursera.org/account/accomplishments/certificate/8PJQ8FCLE72P?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
-
-	// }
 ];
 
 
 var communityProjects = [
 	
+	{
+		pic: "./assets/img/ibm.jpg",
+		date: "2019",
+		desc: "Open Source Tools for Data Science",
+		title: "IBM Cognitive Class",
+		type: "Jupyter Notebook, RStudio, Zeppelin and Watson Studio.",
+		url: "https://www.coursera.org/account/accomplishments/certificate/7GWUWEUE9DK5?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
+
+	},
+	{
+		pic: "./assets/img/ibm.jpg",
+		date: "2019",
+		desc: "Python for Data Science & AI",
+		title: "IBM Developer Skills Network",
+		type: "Data structures, Experience with core libraries for Data Science.",
+		url: "https://www.coursera.org/account/accomplishments/certificate/8PJQ8FCLE72P?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
+
+	},
 	{
 		pic: "./assets/img/ibm_cognitive.png",
 		desc: "Badge: Open Source Tools for Data Science",
