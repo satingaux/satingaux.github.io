@@ -18,7 +18,7 @@ var featuredWorks = [
 	{
 		pic: "./assets/img/stanford.png",
 		date: "2019",
-		desc: "Machine Learning",
+		desc: "Student - Machine Learning",
 		title: "Stanford Online",
 		type: "Machine Learning, Datamining, and Statistical Pattern Recognition",
 		url: "https://www.coursera.org/account/accomplishments/certificate/PCRQYBXZYKH6?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
@@ -27,20 +27,20 @@ var featuredWorks = [
 		pic: "./assets/img/qwilabs.jpg",
 		date: "2019",
 		desc: "Quest Leader - GCP",
-		title: "Google Cloud Platform and Amazon Web Services",
-		type: "Google Cloud",
+		title: "Google Cloud Platform",
+		type: "Quest Leader - 6 Quests & 65 Labs",
 		url: "https://www.qwiklabs.com/public_profiles/e70713d4-5b69-4808-8e49-d45be152eb34"
 	},
 	{	
 		pic: "./assets/img/microsoftazure.png",
-		desc: "Microsoft 'Week of AI'",
+		desc: "Microsoft 'Week of AI' - Bootcamp",
 		title: "Microsoft 'Week of AI",
 		type: "Cloud-based AI and build smart apps",
 		date: "2019",
 		url: "https://www.credential.net/zgikzyuy"
 	},
 	{	pic: "./assets/img/deeplearning.png",
-		desc: "TensorFlow In Depth",
+		desc: "TensorFlow In Depth - Bootcamp",
 		date: "2019",
 		title: "TensorFlow",
 		type: "AI, ML, and Deep Learning",
@@ -54,7 +54,7 @@ var communityProjects = [
 	{
 		pic: "./assets/img/ibm.jpg",
 		date: "2019",
-		desc: "Open Source Tools for Data Science",
+		desc: "Open Source Tools for Data Science - Bootcamp",
 		title: "IBM Cognitive Class",
 		type: "Jupyter Notebook, RStudio, Zeppelin and Watson Studio.",
 		url: "https://www.coursera.org/account/accomplishments/certificate/7GWUWEUE9DK5?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
@@ -62,7 +62,7 @@ var communityProjects = [
 	{
 		pic: "./assets/img/ibm.jpg",
 		date: "2019",
-		desc: "Python for Data Science & AI",
+		desc: "Python for Data Science & AI - Bootcamp",
 		title: "IBM Developer Skills Network",
 		type: "Data structures, Experience with core libraries for Data Science.",
 		url: "https://www.coursera.org/account/accomplishments/certificate/8PJQ8FCLE72P?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
